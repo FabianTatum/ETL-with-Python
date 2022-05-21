@@ -1,0 +1,8 @@
+2022-May-21-18:34:02 - INICIO DEL PROCESO DE ETL
+2022-May-21-18:34:02 - Fase de extraccion de datos iniciada.
+2022-May-21-18:34:03 - Proceso de extraccion de datos finalizado.
+2022-May-21-18:34:04 - Fase de transformacion de datos iniciada.
+2022-May-21-18:34:04 - Proceso de transformacion de datos finalizado.
+2022-May-21-18:34:04 - Fase de carga de datos iniciada.
+2022-May-21-18:34:04 - Fase de carga de los datos finalizada.
+2022-May-21-18:34:05 - PROCESO FINALIZADO CON EXITO
